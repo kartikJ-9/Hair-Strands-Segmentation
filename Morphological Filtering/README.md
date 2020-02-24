@@ -9,3 +9,7 @@ Future Work:
 
 This model performs poorly with the traditional OpenCV methods. So, Morphological Filtering cannot be used for deployment.
 Next approach is applying Unet, a specific type of Convolutional Neural Network, that is specifically used in Biological Images for segmentation
+
+Shoutout: 
+The process of Morphological Filtering on Hair Strands Images was implemented by Sunny Shah.
+https://github.com/sunnyshah2894/DigitalHairRemoval
